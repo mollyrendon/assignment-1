@@ -104,9 +104,9 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
 /*Benefit Section End*/
 
+/* Content Section Start*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -130,6 +130,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+/* Content Section End*/
 
 footer {
   padding: 30px;
